@@ -1,0 +1,5 @@
+{
+  "name": "Game Deals Hub",
+  "description": "A sleek web application to find the latest and greatest game deals on both Steam and Epic Games, featuring a smooth, theme-switching interface.",
+  "requestFramePermissions": []
+}
